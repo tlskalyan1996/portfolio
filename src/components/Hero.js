@@ -1,6 +1,5 @@
 import React from "react";
 import profile from "../assets/Kalyan.jpeg";
-import { FaDownload } from "react-icons/fa";
 import { useState } from "react";
 const Hero = () => {
   const [open, setOpen] = useState(false);
