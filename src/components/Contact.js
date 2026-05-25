@@ -17,7 +17,7 @@ const Contact = () => {
       <div className="flex justify-center gap-6 mt-6">
 
         <a
-          href="https://github.com/your-username"
+          href="https://github.com/tlskalyan1996"
           target="_blank"
           rel="noopener noreferrer"
           className="p-4 bg-white/5 border border-white/10 rounded-full hover:scale-110 hover:border-purple-400 transition"
