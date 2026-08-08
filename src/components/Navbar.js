@@ -1,6 +1,7 @@
 import React from "react";
 
 const Navbar = () => {
+   const [open, setOpen] = useState(false); 
   return (
     <nav className="fixed w-full z-50 bg-black/30 backdrop-blur-lg border-b border-white/10">
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
