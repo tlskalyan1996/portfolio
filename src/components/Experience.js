@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
+ 
 const timeline = [
   {
     type: "work",
@@ -7,11 +8,11 @@ const timeline = [
     org: "TCS (Bank of America)",
     duration: "Oct 2024 – Present",
     points: [
-      "Designed and managed real-time payment data pipelines (Bill Payments, ACH, Card, and Wire Transfers) using Kafka and PySpark, ensuring scalable ingestion and processing across diverse transaction types"
-      "Developed and deployed fraud detection models leveraging historical claims and payment patterns to identify anomalies such as duplicate claims, velocity attacks, and geographic inconsistencies"
-      "Optimized PySpark jobs through partition tuning, broadcast joins, and efficient use of repartition/coalesce, reducing processing latency and improving throughput for 10GB+ datasets"
-      "Automated pipeline orchestration and monitoring with Kafka checkpoints and Spark Structured Streaming, and integrated Prometheus/Grafana dashboards for reliability and transparency"
-      "Collaborated on release cycles by integrating updated models and schema changes into production workflows with minimal downtime"
+      "Designed and managed real-time payment data pipelines (Bill Payments, ACH, Card, and Wire Transfers) using Kafka and PySpark, ensuring scalable ingestion and processing across diverse transaction types.",
+      "Developed and deployed fraud detection models leveraging historical claims and payment patterns to identify anomalies such as duplicate claims, velocity attacks, and geographic inconsistencies.",
+      "Optimized PySpark jobs through partition tuning, broadcast joins, and efficient use of repartition/coalesce, reducing processing latency and improving throughput for 10GB+ datasets.",
+      "Automated pipeline orchestration and monitoring with Kafka checkpoints and Spark Structured Streaming, and integrated Prometheus/Grafana dashboards for reliability and transparency.",
+      "Collaborated on release cycles by integrating updated models and schema changes into production workflows with minimal downtime."
     ]
   },
   {
