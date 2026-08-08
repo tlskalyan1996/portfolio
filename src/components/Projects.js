@@ -10,11 +10,19 @@ const projects = [
     impact: "Improved processing efficiency and reduced execution time.",
     tech: ["PySpark", "Hive", "Hadoop"],
   },
+   {
+    title: "Data Pipeline Optimization",
+    company: "Bank of America",
+    problem: "Inefficient fraud detection increased false positives and missed fraudulent activity",
+    solution: "Integrated and Implemented  fraud classification rules into the deposit model, ensuring consistent and precise labelling.",
+    impact: "Improved processing efficiency and reduced execution time.",
+    tech: ["PySpark", "Hive", "Hadoop"],
+  },
   {
     title: "ETL Pipeline Development",
     company: "H.E.B",
     problem: "Handling large-scale raw data from multiple sources.",
-    solution: "Built scalable ETL pipelines using Spark and Scala.",
+    solution: "Built scalable ETL pipelines as part of the analytical using Spark and Scala.",
     impact: "Enabled reliable and efficient data transformation and storage.",
     tech: ["Scala", "Spark", "AWS S3"],
   }

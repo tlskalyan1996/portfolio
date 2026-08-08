@@ -12,7 +12,7 @@ const skillGroups = [
   },
   {
     title: "Tools & Cloud",
-    skills: ["AWS S3", "AutoSys", "Jira"]
+    skills: ["AWS S3", "AutoSys", "Jira","Airflow"]
   }
 ];
 

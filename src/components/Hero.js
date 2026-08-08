@@ -17,7 +17,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl text-gray-400 mb-4">
-            Data Engineer | 6+ Years Experience
+            Data Engineer | 6.5+ Years Experience
           </p>
 
           <p className="text-gray-500 mb-6 max-w-lg">
