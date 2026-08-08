@@ -17,11 +17,11 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl text-gray-400 mb-4">
-            Data Engineer | 6.5+ Years Experience|TCS
+            Data Engineer | 6.5+ Years Experience| TCS
           </p>
 
           <p className="text-gray-500 mb-6 max-w-lg">
-            Building and optimizing data pipelines across diverse payment domains including P2P, Wire, ACH, and Bill Payments, while designing fraud detection models and analytical workflows using PySpark, Hive and SQL.
+            Experience in Data Engineer at Bank and prior Knowledge on Building and optimizing data pipelines across diverse payment domains including P2P, Wire, ACH, and Bill Payments, while designing fraud detection models and analytical workflows using PySpark, Hive and SQL.
           </p>
 
           {/* Resume Dropdown */}
@@ -38,7 +38,7 @@ const Hero = () => {
               <div className="absolute mt-3 w-52 bg-gray-900 border border-white/10 rounded-xl shadow-xl overflow-hidden">
 
                 <a
-                  href="/resume.pdf"
+                  href="/Thalluru_Lakshmi_Sai_Kalyan_Resume.pdf"
                   download
                   className="block px-4 py-3 hover:bg-white/10 transition"
                 >
@@ -46,7 +46,7 @@ const Hero = () => {
                 </a>
 
                 <a
-                  href="/resume.docx"
+                  href="/Thalluru_Lakshmi_Sai_Kalyan_Resume.docx"
                   download
                   className="block px-4 py-3 hover:bg-white/10 transition"
                 >
