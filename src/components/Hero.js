@@ -16,7 +16,7 @@ const Hero = () => {
             Thalluru Lakshmi Sai Kalyan
           </h1>
 
-          <p className="text-xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent mb-4">
+          <p className="text-lg font-semibold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent mb-4">
             Data Engineer | 6.5+ Years Experience | Tata Consultancy Services
           </p>
 
