@@ -21,7 +21,7 @@ const timeline = [
     org: "Cognizant (H.E.B)",
     duration: "Nov 2020 – Jul 2023",
     points: [
-      "Developed Scala-based Spark code to seamlessly read data from HDFS and construct DataFrames for downstream processing.",
+      "Developed Scala and Python based Spark code to seamlessly read data from HDFS and construct DataFrames for downstream processing.",
       "Built multi-stage Spark data transformation pipelines to support business and analytics needs",
       "Performed data cleansing and transformation to support accurate downstream analytics",
       "Implemented new features and enhancements based on customer requirements"

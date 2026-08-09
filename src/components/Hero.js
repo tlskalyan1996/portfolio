@@ -16,9 +16,10 @@ const Hero = () => {
             Thalluru Lakshmi Sai Kalyan
           </h1>
 
-          <p className="text-xl text-gray-400 mb-4">
-            Data Engineer | 6.5+ Years Experience| TCS
+          <p className="text-xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent mb-4">
+            Data Engineer | 6.5+ Years Experience | Tata Consultancy Services
           </p>
+
 
           <p className="text-gray-500 mb-6 max-w-lg">
             Experience in Data Engineer at Bank and prior Knowledge on Building and optimizing data pipelines across diverse payment domains including P2P, Wire, ACH, and Bill Payments, while designing fraud detection models and analytical workflows using PySpark, Hive and SQL.
